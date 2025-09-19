@@ -8,9 +8,7 @@ import {
   getDeals,
   saveDeals,
   getTestimonials,
-  saveTestimonials,
   getOrders,
-  saveOrders,
   addOrder,
   loadSeedData,
 } from '@/utils/storage';

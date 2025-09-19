@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Users, MapPin, Package, ShoppingCart, TrendingUp, DollarSign } from 'lucide-react';
+import { MapPin, Package, ShoppingCart, DollarSign } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { useDataStore } from '@/stores/data';
 import { formatCurrency } from '@/utils/slug';
@@ -10,7 +10,6 @@ export default function AdminDashboard() {
   const orders = useDataStore((state) => state.orders);
 
   const totalRevenue = orders.reduce((sum, order) => sum + order.total, 0);
-  const avgOrderValue = orders.length > 0 ? totalRevenue / orders.length : 0;
 
   const stats = [
     {

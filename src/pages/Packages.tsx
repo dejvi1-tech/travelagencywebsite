@@ -5,7 +5,6 @@ import { PackageCard } from '@/components/PackageCard';
 import { EmptyState } from '@/components/EmptyState';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
 import { useDataStore } from '@/stores/data';
 
 export default function Packages() {

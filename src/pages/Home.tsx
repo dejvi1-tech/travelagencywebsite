@@ -6,7 +6,6 @@ import { DestinationCard } from '@/components/DestinationCard';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { RatingStars } from '@/components/RatingStars';
 import { useDataStore } from '@/stores/data';
 import { formatCurrency } from '@/utils/slug';
 import { clearAllData } from '@/utils/storage';
@@ -14,7 +13,6 @@ import { clearAllData } from '@/utils/storage';
 export default function Home() {
   const featuredDestinations = useDataStore((state) => state.getFeaturedDestinations());
   const deals = useDataStore((state) => state.deals);
-  const initialize = useDataStore((state) => state.initialize);
 
   console.log('Home page data:', { featuredDestinations: featuredDestinations.length, deals: deals.length });
 
