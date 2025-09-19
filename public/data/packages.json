@@ -1,0 +1,278 @@
+[
+  {
+    "id": "pkg-1",
+    "slug": "santorini-romantic-escape",
+    "destinationId": "dest-1",
+    "title": "Romantic Santorini Escape",
+    "price": 1299,
+    "durationDays": 5,
+    "hotelClass": 5,
+    "flightsIncluded": false,
+    "activities": [
+      "Sunset viewing in Oia",
+      "Wine tasting tour",
+      "Volcanic beach visit",
+      "Caldera boat cruise",
+      "Traditional Greek cooking class"
+    ]
+  },
+  {
+    "id": "pkg-2",
+    "slug": "santorini-budget-getaway",
+    "destinationId": "dest-1",
+    "title": "Santorini Budget Getaway",
+    "price": 899,
+    "durationDays": 4,
+    "hotelClass": 3,
+    "flightsIncluded": false,
+    "activities": [
+      "Fira town exploration",
+      "Red Beach visit",
+      "Local taverna dinner",
+      "Akrotiri archaeological site"
+    ]
+  },
+  {
+    "id": "pkg-3",
+    "slug": "kyoto-cultural-immersion",
+    "destinationId": "dest-2",
+    "title": "Kyoto Cultural Immersion",
+    "price": 2199,
+    "durationDays": 7,
+    "hotelClass": 4,
+    "flightsIncluded": false,
+    "activities": [
+      "Temple hopping tour",
+      "Traditional tea ceremony",
+      "Geisha district walk",
+      "Bamboo forest exploration",
+      "Zen meditation session",
+      "Sake tasting experience"
+    ]
+  },
+  {
+    "id": "pkg-4",
+    "slug": "kyoto-cherry-blossom-special",
+    "destinationId": "dest-2",
+    "title": "Cherry Blossom Special",
+    "price": 2899,
+    "durationDays": 8,
+    "hotelClass": 5,
+    "flightsIncluded": false,
+    "activities": [
+      "Hanami picnic in Maruyama Park",
+      "Night illumination viewing",
+      "Traditional ryokan stay",
+      "Kaiseki dinner experience",
+      "Philosopher's Path walk"
+    ]
+  },
+  {
+    "id": "pkg-5",
+    "slug": "serengeti-luxury-safari",
+    "destinationId": "dest-3",
+    "title": "Luxury Serengeti Safari",
+    "price": 4299,
+    "durationDays": 8,
+    "hotelClass": 5,
+    "flightsIncluded": false,
+    "activities": [
+      "Big Five game drives",
+      "Hot air balloon safari",
+      "Maasai village visit",
+      "Ngorongoro Crater tour",
+      "Bush dinner under stars",
+      "Walking safari experience"
+    ]
+  },
+  {
+    "id": "pkg-6",
+    "slug": "serengeti-adventure-safari",
+    "destinationId": "dest-3",
+    "title": "Adventure Safari Experience",
+    "price": 3199,
+    "durationDays": 6,
+    "hotelClass": 4,
+    "flightsIncluded": false,
+    "activities": [
+      "Migration tracking",
+      "Game drives with professional guide",
+      "Cultural interaction with locals",
+      "Wildlife photography workshop"
+    ]
+  },
+  {
+    "id": "pkg-7",
+    "slug": "machu-picchu-classic-trek",
+    "destinationId": "dest-4",
+    "title": "Classic Inca Trail Trek",
+    "price": 2799,
+    "durationDays": 6,
+    "hotelClass": 3,
+    "flightsIncluded": false,
+    "activities": [
+      "4-day Inca Trail hiking",
+      "Sunrise at Machu Picchu",
+      "Sacred Valley exploration",
+      "Local market visits",
+      "Traditional Andean ceremonies"
+    ]
+  },
+  {
+    "id": "pkg-8",
+    "slug": "machu-picchu-luxury-experience",
+    "destinationId": "dest-4",
+    "title": "Luxury Machu Picchu Experience",
+    "price": 3299,
+    "durationDays": 7,
+    "hotelClass": 5,
+    "flightsIncluded": false,
+    "activities": [
+      "Helicopter tour over Andes",
+      "Luxury train to Machu Picchu",
+      "Private guided tours",
+      "Gourmet Peruvian cuisine",
+      "Spa treatments with Andean herbs"
+    ]
+  },
+  {
+    "id": "pkg-9",
+    "slug": "bali-beach-culture",
+    "destinationId": "dest-5",
+    "title": "Bali Beach & Culture",
+    "price": 1199,
+    "durationDays": 7,
+    "hotelClass": 4,
+    "flightsIncluded": false,
+    "activities": [
+      "Temple hopping tour",
+      "Rice terrace trekking",
+      "Traditional Balinese massage",
+      "Cooking class with local family",
+      "Sunset beach relaxation",
+      "Art village exploration"
+    ]
+  },
+  {
+    "id": "pkg-10",
+    "slug": "bali-wellness-retreat",
+    "destinationId": "dest-5",
+    "title": "Bali Wellness Retreat",
+    "price": 1599,
+    "durationDays": 8,
+    "hotelClass": 5,
+    "flightsIncluded": false,
+    "activities": [
+      "Daily yoga sessions",
+      "Meditation workshops",
+      "Spa treatments",
+      "Healthy cooking classes",
+      "Nature walks and healing ceremonies"
+    ]
+  },
+  {
+    "id": "pkg-11",
+    "slug": "iceland-northern-lights",
+    "destinationId": "dest-6",
+    "title": "Iceland Northern Lights Adventure",
+    "price": 3199,
+    "durationDays": 10,
+    "hotelClass": 3,
+    "flightsIncluded": false,
+    "activities": [
+      "Ring Road complete circuit",
+      "Northern Lights hunting",
+      "Ice cave exploration",
+      "Glacier hiking",
+      "Geothermal hot spring visits",
+      "Whale watching cruise"
+    ]
+  },
+  {
+    "id": "pkg-12",
+    "slug": "iceland-summer-highlights",
+    "destinationId": "dest-6",
+    "title": "Iceland Summer Highlights",
+    "price": 2599,
+    "durationDays": 8,
+    "hotelClass": 4,
+    "flightsIncluded": false,
+    "activities": [
+      "Golden Circle tour",
+      "Waterfall photography",
+      "Puffin watching",
+      "Highland adventure",
+      "Midnight sun experience"
+    ]
+  },
+  {
+    "id": "pkg-13",
+    "slug": "dubai-luxury-experience",
+    "destinationId": "dest-7",
+    "title": "Dubai Luxury Experience",
+    "price": 1899,
+    "durationDays": 5,
+    "hotelClass": 5,
+    "flightsIncluded": false,
+    "activities": [
+      "Burj Khalifa VIP experience",
+      "Desert safari with luxury camp",
+      "Private yacht charter",
+      "Shopping in Gold Souk",
+      "Michelin-star dining",
+      "Helicopter tour over the city"
+    ]
+  },
+  {
+    "id": "pkg-14",
+    "slug": "dubai-family-fun",
+    "destinationId": "dest-7",
+    "title": "Dubai Family Fun",
+    "price": 1299,
+    "durationDays": 6,
+    "hotelClass": 4,
+    "flightsIncluded": false,
+    "activities": [
+      "Theme park visits",
+      "Aquarium and underwater zoo",
+      "Beach club access",
+      "Cultural heritage tour",
+      "Desert adventure with camel riding"
+    ]
+  },
+  {
+    "id": "pkg-15",
+    "slug": "great-barrier-reef-diving",
+    "destinationId": "dest-8",
+    "title": "Great Barrier Reef Diving Adventure",
+    "price": 2899,
+    "durationDays": 6,
+    "hotelClass": 4,
+    "flightsIncluded": false,
+    "activities": [
+      "Multiple diving expeditions",
+      "Marine biology education",
+      "Underwater photography course",
+      "Island hopping",
+      "Snorkeling with sea turtles",
+      "Reef conservation workshop"
+    ]
+  },
+  {
+    "id": "pkg-16",
+    "slug": "great-barrier-reef-family",
+    "destinationId": "dest-8",
+    "title": "Family Reef Explorer",
+    "price": 2199,
+    "durationDays": 5,
+    "hotelClass": 3,
+    "flightsIncluded": false,
+    "activities": [
+      "Glass-bottom boat tours",
+      "Beginner snorkeling lessons",
+      "Marine park education center",
+      "Beach relaxation time",
+      "Wildlife spotting cruises"
+    ]
+  }
+]

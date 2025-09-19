@@ -1,0 +1,412 @@
+[
+  {
+    "id": "dest-1",
+    "slug": "santorini-greece",
+    "name": "Santorini",
+    "country": "Greece",
+    "region": "Europe",
+    "shortDescription": "Stunning sunsets and iconic blue-domed churches in the Aegean Sea",
+    "description": "Santorini is one of the most romantic destinations in the world, famous for its dramatic cliffs, stunning sunsets, and distinctive architecture. The island's unique volcanic landscape creates a breathtaking backdrop for an unforgettable vacation. From the charming villages of Oia and Fira to the black sand beaches of Kamari, Santorini offers a perfect blend of natural beauty, rich history, and Mediterranean charm.",
+    "images": [
+      "https://picsum.photos/800/600?random=1",
+      "https://picsum.photos/800/600?random=2",
+      "https://picsum.photos/800/600?random=3"
+    ],
+    "tags": ["romantic", "islands", "sunset", "architecture", "wine"],
+    "bestTime": "Apr–Oct",
+    "priceFrom": 1200,
+    "durationDays": 5,
+    "rating": 4.8,
+    "popular": true,
+    "coordinates": { "lat": 36.3932, "lng": 25.4615 },
+    "highlights": [
+      "Spectacular sunset views from Oia",
+      "Wine tasting at local vineyards",
+      "Exploration of volcanic beaches",
+      "Traditional Cycladic architecture",
+      "Boat trips around the caldera"
+    ],
+    "included": [
+      "Accommodation in traditional cave hotel",
+      "Daily breakfast",
+      "Airport transfers",
+      "Sunset cruise with dinner",
+      "Wine tasting tour"
+    ],
+    "excluded": [
+      "International flights",
+      "Lunch and dinner (except specified)",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "faq": [
+      {
+        "q": "What's the best time to visit Santorini?",
+        "a": "The best time to visit Santorini is from April to October when the weather is warm and sunny. For fewer crowds and lower prices, consider visiting in April-May or September-October."
+      },
+      {
+        "q": "How do I get around the island?",
+        "a": "You can rent a car, ATV, or use the local bus system. Many hotels also offer shuttle services to major attractions and beaches."
+      }
+    ]
+  },
+  {
+    "id": "dest-2",
+    "slug": "kyoto-japan",
+    "name": "Kyoto",
+    "country": "Japan",
+    "region": "Asia",
+    "shortDescription": "Ancient temples, traditional culture, and beautiful cherry blossoms",
+    "description": "Kyoto, the former imperial capital of Japan, is a city where ancient traditions seamlessly blend with modern life. Home to over 2,000 temples and shrines, including the iconic Fushimi Inari shrine with its thousands of vermillion torii gates, Kyoto offers visitors a glimpse into Japan's rich cultural heritage. The city is also famous for its traditional geisha districts, stunning gardens, and seasonal beauty, particularly during cherry blossom season.",
+    "images": [
+      "https://picsum.photos/800/600?random=10",
+      "https://picsum.photos/800/600?random=11",
+      "https://picsum.photos/800/600?random=12"
+    ],
+    "tags": ["culture", "temples", "cherry-blossoms", "traditional", "gardens"],
+    "bestTime": "Mar–May, Sep–Nov",
+    "priceFrom": 1800,
+    "durationDays": 7,
+    "rating": 4.9,
+    "popular": true,
+    "coordinates": { "lat": 35.0116, "lng": 135.7681 },
+    "highlights": [
+      "Fushimi Inari shrine with thousands of torii gates",
+      "Golden Pavilion (Kinkaku-ji) temple",
+      "Traditional geisha districts of Gion",
+      "Arashiyama bamboo forest",
+      "Zen gardens and meditation experiences"
+    ],
+    "included": [
+      "Accommodation in traditional ryokan",
+      "Daily breakfast",
+      "JR Pass for local transportation",
+      "Guided temple tours",
+      "Tea ceremony experience"
+    ],
+    "excluded": [
+      "International flights",
+      "Lunch and dinner (except specified)",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "faq": [
+      {
+        "q": "When is cherry blossom season in Kyoto?",
+        "a": "Cherry blossom season typically occurs from late March to early May, with peak bloom usually in early April. This is the most popular time to visit."
+      },
+      {
+        "q": "What should I wear when visiting temples?",
+        "a": "Dress modestly when visiting temples. Cover your shoulders and knees, and be prepared to remove shoes when entering temple buildings."
+      }
+    ]
+  },
+  {
+    "id": "dest-3",
+    "slug": "safari-tanzania",
+    "name": "Serengeti Safari",
+    "country": "Tanzania",
+    "region": "Africa",
+    "shortDescription": "Witness the Great Migration and incredible wildlife in African savanna",
+    "description": "The Serengeti is synonymous with safari and wildlife conservation. This vast ecosystem hosts the spectacular Great Migration, where over two million wildebeest, zebras, and gazelles make their annual journey across the plains. The park is also home to the Big Five - lion, leopard, elephant, buffalo, and rhino - offering some of the best wildlife viewing opportunities in the world.",
+    "images": [
+      "https://picsum.photos/800/600?random=20",
+      "https://picsum.photos/800/600?random=21",
+      "https://picsum.photos/800/600?random=22"
+    ],
+    "tags": ["safari", "wildlife", "migration", "adventure", "photography"],
+    "bestTime": "Jun–Oct",
+    "priceFrom": 3500,
+    "durationDays": 8,
+    "rating": 4.7,
+    "popular": true,
+    "coordinates": { "lat": -2.3333, "lng": 34.8333 },
+    "highlights": [
+      "Great Migration river crossings",
+      "Big Five wildlife encounters",
+      "Hot air balloon safari at sunrise",
+      "Maasai cultural village visit",
+      "Ngorongoro Crater exploration"
+    ],
+    "included": [
+      "Luxury tented camp accommodation",
+      "All meals and beverages",
+      "Game drives with professional guide",
+      "Park fees and permits",
+      "Cultural village visit"
+    ],
+    "excluded": [
+      "International flights",
+      "Visa fees",
+      "Personal expenses",
+      "Travel insurance",
+      "Gratuities"
+    ],
+    "faq": [
+      {
+        "q": "When is the best time to see the Great Migration?",
+        "a": "The Great Migration is a year-round phenomenon, but the best time to see river crossings is from July to October in the northern Serengeti."
+      },
+      {
+        "q": "What should I pack for a safari?",
+        "a": "Pack neutral-colored clothing, a hat, sunscreen, binoculars, and a good camera. Most camps provide laundry service."
+      }
+    ]
+  },
+  {
+    "id": "dest-4",
+    "slug": "machu-picchu-peru",
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "region": "Americas",
+    "shortDescription": "Ancient Incan citadel high in the Andes Mountains",
+    "description": "Machu Picchu, the 'Lost City of the Incas,' is one of the most spectacular archaeological sites in the world. Perched high in the Andes Mountains at 2,430 meters above sea level, this well-preserved Incan citadel offers breathtaking views and fascinating insights into pre-Columbian civilization. The journey to reach this UNESCO World Heritage site is as memorable as the destination itself.",
+    "images": [
+      "https://picsum.photos/800/600?random=30",
+      "https://picsum.photos/800/600?random=31",
+      "https://picsum.photos/800/600?random=32"
+    ],
+    "tags": ["historical", "hiking", "archaeology", "mountains", "UNESCO"],
+    "bestTime": "May–Sep",
+    "priceFrom": 2200,
+    "durationDays": 6,
+    "rating": 4.8,
+    "popular": true,
+    "coordinates": { "lat": -13.1631, "lng": -72.5450 },
+    "highlights": [
+      "Sunrise over the ancient citadel",
+      "Inca Trail hiking experience",
+      "Sacred Valley exploration",
+      "Traditional Andean villages",
+      "Huayna Picchu mountain climb"
+    ],
+    "included": [
+      "Accommodation in Cusco and Sacred Valley",
+      "Daily breakfast",
+      "Entrance tickets to Machu Picchu",
+      "Professional guide",
+      "Train to Aguas Calientes"
+    ],
+    "excluded": [
+      "International flights",
+      "Lunch and dinner (except specified)",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "faq": [
+      {
+        "q": "Do I need to book Machu Picchu tickets in advance?",
+        "a": "Yes, entrance tickets must be booked well in advance, especially for the classic Inca Trail which has limited daily permits."
+      },
+      {
+        "q": "How should I prepare for the altitude?",
+        "a": "Arrive in Cusco 2-3 days before your Machu Picchu visit to acclimatize. Stay hydrated and consider coca tea for altitude sickness."
+      }
+    ]
+  },
+  {
+    "id": "dest-5",
+    "slug": "bali-indonesia",
+    "name": "Bali",
+    "country": "Indonesia",
+    "region": "Asia",
+    "shortDescription": "Tropical paradise with rice terraces, temples, and pristine beaches",
+    "description": "Bali is a tropical paradise that perfectly balances spiritual culture with natural beauty. From the dramatic rice terraces of Tegallalang to the pristine beaches of Nusa Dua, this Indonesian island offers diverse experiences for every traveler. The island's rich Hindu culture is evident in its thousands of temples, traditional dance performances, and colorful festivals.",
+    "images": [
+      "https://picsum.photos/800/600?random=40",
+      "https://picsum.photos/800/600?random=41",
+      "https://picsum.photos/800/600?random=42"
+    ],
+    "tags": ["beaches", "temples", "rice-terraces", "culture", "spa"],
+    "bestTime": "Apr–Oct",
+    "priceFrom": 1000,
+    "durationDays": 7,
+    "rating": 4.6,
+    "popular": false,
+    "coordinates": { "lat": -8.3405, "lng": 115.0920 },
+    "highlights": [
+      "Tegallalang rice terraces",
+      "Uluwatu temple cliff-top location",
+      "Traditional Balinese spa treatments",
+      "Ubud monkey forest sanctuary",
+      "Sunset at Tanah Lot temple"
+    ],
+    "included": [
+      "Accommodation in luxury resort",
+      "Daily breakfast",
+      "Airport transfers",
+      "Temple tours with guide",
+      "Traditional spa treatment"
+    ],
+    "excluded": [
+      "International flights",
+      "Lunch and dinner (except specified)",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "faq": [
+      {
+        "q": "What's the best area to stay in Bali?",
+        "a": "It depends on your preferences. Ubud for culture and nature, Seminyak for beaches and nightlife, or Nusa Dua for luxury resorts."
+      },
+      {
+        "q": "Do I need a visa for Bali?",
+        "a": "Many nationalities can enter Indonesia visa-free for up to 30 days. Check current requirements based on your citizenship."
+      }
+    ]
+  },
+  {
+    "id": "dest-6",
+    "slug": "iceland-ring-road",
+    "name": "Iceland Ring Road",
+    "country": "Iceland",
+    "region": "Europe",
+    "shortDescription": "Epic road trip through glaciers, waterfalls, and volcanic landscapes",
+    "description": "Iceland's Ring Road offers one of the world's most spectacular road trip experiences. This 1,332-kilometer route encircles the entire island, taking you past dramatic waterfalls, massive glaciers, volcanic landscapes, and geothermal hot springs. The ever-changing scenery includes black sand beaches, colorful mountains, and the chance to see the Northern Lights during winter months.",
+    "images": [
+      "https://picsum.photos/800/600?random=50",
+      "https://picsum.photos/800/600?random=51",
+      "https://picsum.photos/800/600?random=52"
+    ],
+    "tags": ["road-trip", "glaciers", "waterfalls", "northern-lights", "geothermal"],
+    "bestTime": "Jun–Aug, Dec–Mar",
+    "priceFrom": 2800,
+    "durationDays": 10,
+    "rating": 4.7,
+    "popular": false,
+    "coordinates": { "lat": 64.9631, "lng": -19.0208 },
+    "highlights": [
+      "Gullfoss and Skógafoss waterfalls",
+      "Jökulsárlón glacier lagoon",
+      "Blue Lagoon geothermal spa",
+      "Northern Lights viewing (winter)",
+      "Diamond Beach black sand shores"
+    ],
+    "included": [
+      "Car rental with GPS navigation",
+      "Accommodation in guesthouses",
+      "Daily breakfast",
+      "Blue Lagoon entrance",
+      "Northern Lights tour (winter packages)"
+    ],
+    "excluded": [
+      "International flights",
+      "Fuel costs",
+      "Lunch and dinner",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "faq": [
+      {
+        "q": "When can I see the Northern Lights in Iceland?",
+        "a": "Northern Lights are visible from September to March, with peak viewing from October to February on clear, dark nights."
+      },
+      {
+        "q": "Is it safe to drive in Iceland?",
+        "a": "Yes, but weather conditions can change rapidly. Always check road conditions and weather forecasts before traveling."
+      }
+    ]
+  },
+  {
+    "id": "dest-7",
+    "slug": "dubai-uae",
+    "name": "Dubai",
+    "country": "United Arab Emirates",
+    "region": "Middle East",
+    "shortDescription": "Luxurious city of skyscrapers, shopping, and desert adventures",
+    "description": "Dubai is a dazzling metropolis that epitomizes luxury and innovation. This gleaming city in the desert offers world-class shopping, stunning architecture including the iconic Burj Khalifa, pristine beaches, and thrilling desert adventures. From traditional souks to ultra-modern malls, from camel riding to skydiving, Dubai provides an unforgettable blend of traditional Arabian culture and futuristic luxury.",
+    "images": [
+      "https://picsum.photos/800/600?random=60",
+      "https://picsum.photos/800/600?random=61",
+      "https://picsum.photos/800/600?random=62"
+    ],
+    "tags": ["luxury", "shopping", "desert", "skyscrapers", "beaches"],
+    "bestTime": "Nov–Mar",
+    "priceFrom": 1500,
+    "durationDays": 5,
+    "rating": 4.5,
+    "popular": false,
+    "coordinates": { "lat": 25.2048, "lng": 55.2708 },
+    "highlights": [
+      "Burj Khalifa observation deck",
+      "Desert safari with camel riding",
+      "Dubai Mall and Gold Souk shopping",
+      "Palm Jumeirah and Atlantis resort",
+      "Traditional dhow cruise dinner"
+    ],
+    "included": [
+      "Luxury hotel accommodation",
+      "Daily breakfast",
+      "Airport transfers",
+      "Desert safari with dinner",
+      "Dubai Mall and Burj Khalifa tour"
+    ],
+    "excluded": [
+      "International flights",
+      "Lunch and dinner (except specified)",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "faq": [
+      {
+        "q": "What should I know about Dubai's culture and dress code?",
+        "a": "Dubai is cosmopolitan but respectful dress is appreciated. Modest clothing is required in malls, restaurants, and public areas."
+      },
+      {
+        "q": "Is Dubai expensive to visit?",
+        "a": "Dubai can be expensive, but there are options for all budgets. Many attractions offer packages, and there are affordable dining options available."
+      }
+    ]
+  },
+  {
+    "id": "dest-8",
+    "slug": "great-barrier-reef-australia",
+    "name": "Great Barrier Reef",
+    "country": "Australia",
+    "region": "Oceania",
+    "shortDescription": "World's largest coral reef system with incredible marine biodiversity",
+    "description": "The Great Barrier Reef is one of the seven natural wonders of the world and the planet's largest coral reef system. Stretching over 2,300 kilometers along the Queensland coast, this UNESCO World Heritage site is home to an incredible diversity of marine life including 1,500 species of fish, 400 types of coral, and marine animals like sea turtles, dolphins, and whales.",
+    "images": [
+      "https://picsum.photos/800/600?random=70",
+      "https://picsum.photos/800/600?random=71",
+      "https://picsum.photos/800/600?random=72"
+    ],
+    "tags": ["snorkeling", "diving", "marine-life", "coral", "UNESCO"],
+    "bestTime": "Jun–Oct",
+    "priceFrom": 2500,
+    "durationDays": 6,
+    "rating": 4.6,
+    "popular": false,
+    "coordinates": { "lat": -18.2871, "lng": 147.6992 },
+    "highlights": [
+      "Snorkeling and diving in pristine coral gardens",
+      "Marine life encounters with turtles and reef sharks",
+      "Glass-bottom boat tours",
+      "Helicopter scenic flights over the reef",
+      "Island hopping in the Whitsundays"
+    ],
+    "included": [
+      "Accommodation in Cairns or Port Douglas",
+      "Daily breakfast",
+      "Full-day reef tours with equipment",
+      "Professional diving instruction",
+      "Marine park fees"
+    ],
+    "excluded": [
+      "International flights",
+      "Lunch and dinner (except specified)",
+      "Personal expenses",
+      "Travel insurance"
+    ],
+    "faq": [
+      {
+        "q": "Do I need to know how to swim to enjoy the reef?",
+        "a": "While swimming ability enhances the experience, non-swimmers can enjoy glass-bottom boat tours and shallow water activities with life jackets."
+      },
+      {
+        "q": "What's the best way to see the reef?",
+        "a": "Snorkeling and diving offer the most immersive experience, but helicopter tours and glass-bottom boats are excellent alternatives."
+      }
+    ]
+  }
+]

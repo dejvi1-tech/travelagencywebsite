@@ -1,0 +1,56 @@
+[
+  {
+    "id": "test-1",
+    "name": "Sarah & Michael Johnson",
+    "location": "New York, USA",
+    "rating": 5,
+    "comment": "Our Santorini honeymoon was absolutely magical! The sunset views from our cave hotel were breathtaking, and the wine tasting tour was a highlight. The travel agency took care of every detail perfectly.",
+    "image": "https://picsum.photos/150/150?random=201",
+    "destinationId": "dest-1"
+  },
+  {
+    "id": "test-2",
+    "name": "Hiroshi Tanaka",
+    "location": "Tokyo, Japan",
+    "rating": 5,
+    "comment": "As a Japanese person living abroad, I was amazed by how authentic and well-organized the Kyoto cultural tour was. The tea ceremony and temple visits brought back beautiful childhood memories.",
+    "image": "https://picsum.photos/150/150?random=202",
+    "destinationId": "dest-2"
+  },
+  {
+    "id": "test-3",
+    "name": "Emma Thompson",
+    "location": "London, UK",
+    "rating": 5,
+    "comment": "The Serengeti safari exceeded all expectations! Seeing the Great Migration up close was a once-in-a-lifetime experience. Our guide was knowledgeable and the accommodations were luxurious.",
+    "image": "https://picsum.photos/150/150?random=203",
+    "destinationId": "dest-3"
+  },
+  {
+    "id": "test-4",
+    "name": "Carlos Rodriguez",
+    "location": "Madrid, Spain",
+    "rating": 4,
+    "comment": "Hiking the Inca Trail to Machu Picchu was challenging but incredibly rewarding. The sunrise over the ancient citadel is something I'll never forget. Great organization and support throughout.",
+    "image": "https://picsum.photos/150/150?random=204",
+    "destinationId": "dest-4"
+  },
+  {
+    "id": "test-5",
+    "name": "Lisa & James Wong",
+    "location": "Sydney, Australia",
+    "rating": 5,
+    "comment": "Our Bali wellness retreat was exactly what we needed. The yoga sessions, spa treatments, and healthy cuisine helped us completely disconnect and recharge. The staff was incredibly welcoming.",
+    "image": "https://picsum.photos/150/150?random=205",
+    "destinationId": "dest-5"
+  },
+  {
+    "id": "test-6",
+    "name": "Nordic Explorer",
+    "location": "Stockholm, Sweden",
+    "rating": 5,
+    "comment": "Iceland's Ring Road tour was spectacular! We saw the Northern Lights on three different nights, and the glaciers and waterfalls were awe-inspiring. Perfect winter adventure!",
+    "image": "https://picsum.photos/150/150?random=206",
+    "destinationId": "dest-6"
+  }
+]

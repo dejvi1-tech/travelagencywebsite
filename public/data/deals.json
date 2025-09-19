@@ -1,0 +1,74 @@
+[
+  {
+    "id": "deal-1",
+    "title": "Early Bird Santorini Special",
+    "description": "Book your romantic Santorini getaway 3 months in advance and save 25% on accommodation and activities.",
+    "originalPrice": 1299,
+    "discountPrice": 974,
+    "discount": 25,
+    "validUntil": "2024-12-31",
+    "image": "https://picsum.photos/600/400?random=101",
+    "packageId": "pkg-1",
+    "destinationId": "dest-1"
+  },
+  {
+    "id": "deal-2",
+    "title": "Cherry Blossom Season Sale",
+    "description": "Experience Japan's most beautiful season with 20% off all Kyoto packages during cherry blossom season.",
+    "originalPrice": 2899,
+    "discountPrice": 2319,
+    "discount": 20,
+    "validUntil": "2024-03-15",
+    "image": "https://picsum.photos/600/400?random=102",
+    "packageId": "pkg-4",
+    "destinationId": "dest-2"
+  },
+  {
+    "id": "deal-3",
+    "title": "Safari Season Special",
+    "description": "Join the Great Migration! Book your Serengeti safari now and get a free hot air balloon ride worth $500.",
+    "originalPrice": 4299,
+    "discountPrice": 3799,
+    "discount": 12,
+    "validUntil": "2024-08-30",
+    "image": "https://picsum.photos/600/400?random=103",
+    "packageId": "pkg-5",
+    "destinationId": "dest-3"
+  },
+  {
+    "id": "deal-4",
+    "title": "Inca Trail Adventure Deal",
+    "description": "Limited time offer: Save 15% on the classic Inca Trail trek and receive a free Sacred Valley tour.",
+    "originalPrice": 2799,
+    "discountPrice": 2379,
+    "discount": 15,
+    "validUntil": "2024-09-15",
+    "image": "https://picsum.photos/600/400?random=104",
+    "packageId": "pkg-7",
+    "destinationId": "dest-4"
+  },
+  {
+    "id": "deal-5",
+    "title": "Northern Lights Guarantee",
+    "description": "Book our Iceland Northern Lights package and we guarantee you'll see them, or get a free return trip!",
+    "originalPrice": 3199,
+    "discountPrice": 2879,
+    "discount": 10,
+    "validUntil": "2024-11-30",
+    "image": "https://picsum.photos/600/400?random=105",
+    "packageId": "pkg-11",
+    "destinationId": "dest-6"
+  },
+  {
+    "id": "deal-6",
+    "title": "Dubai Summer Escape",
+    "description": "Beat the heat with our air-conditioned luxury tour. 30% off all Dubai packages during summer months.",
+    "originalPrice": 1899,
+    "discountPrice": 1329,
+    "discount": 30,
+    "validUntil": "2024-08-31",
+    "image": "https://picsum.photos/600/400?random=106",
+    "packageId": "pkg-13",
+    "destinationId": "dest-7"
+  }
+]
